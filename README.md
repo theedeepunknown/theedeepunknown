@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Bladimir. I am currently a Desktop Support Specialist. 
+My name is Bladimir.
 
 ### Certifications
 CompTIA Security+, 
