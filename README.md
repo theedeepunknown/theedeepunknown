@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-My Name is Bladimir.
+My name is Bladimir.
