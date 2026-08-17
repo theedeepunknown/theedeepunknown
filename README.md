@@ -2,11 +2,11 @@
 
 My name is Bladimir. I am currently a Desktop Support Specialist. 
 
-# Goal
+### Goal
 Aspiring SOC Analyst.
 
 
-# Certifications
+### Certifications
 CompTIA Security+, 
 CompTIA Network+, 
 Comptia CySA+ (Cybersecurity Analyst) - In progress
