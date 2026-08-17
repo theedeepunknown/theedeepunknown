@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-My name is Bladimir. 
+My name is Bladimir. I am currently a Desktop Support Specialist. 
 
-Blue team enthusiast. 
+# Goal
+Aspiring SOC Analyst.
 
-## Certifications
+
+# Certifications
 CompTIA Security+, 
 CompTIA Network+, 
 Comptia CySA+ (Cybersecurity Analyst) - In progress
