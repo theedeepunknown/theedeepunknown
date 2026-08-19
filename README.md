@@ -1,5 +1,5 @@
 ## Hola amigos! 👋
-My name is Bladimir. 
+My name is Bladimir. I am an aspiring Blue Teamer🛡️
 
 ### current role
 
@@ -21,5 +21,3 @@ I regularly work with:
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA CySA+ — In Progress
-
-# Aspiring Blue Teamer 🛡️
