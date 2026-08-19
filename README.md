@@ -1,8 +1,2 @@
 ## Hi there 👋
-
-My name is Bladimir.
-
-### Certifications
-CompTIA Security+, 
-CompTIA Network+, 
-Comptia CySA+ (Cybersecurity Analyst) - In progress
+My name is Bladimir. I am a full time Desktop Support Specialist.
