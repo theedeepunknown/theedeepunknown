@@ -1,9 +1,9 @@
 ## Hi there 👋
-My name is Bladimir.
+My name is Bladimir. ### Aspiring Blue Teamer 🛡️
 
-### Current Role
+### current role
 
-I currently work as a Desktop Support Specialist, supporting users across multiple locations in an enterprise IT environment. My day-to-day work involves a mix of endpoint support, identity and access management, and Microsoft 365 administration.
+I currently work as a Desktop Support Specialist, supporting users across multiple locations throughout Virginia. Day to day work involves a mix of endpoint support, identity and access management, and Microsoft 365 administration.
 
 I regularly work with:
 
@@ -17,7 +17,7 @@ I regularly work with:
 - Application account provisioning
 - Basic network and connectivity troubleshooting
 
-### Certifications
+### certs
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA CySA+ — In Progress
