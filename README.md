@@ -1,5 +1,5 @@
 ## Hola amigos! 👋
-My name is Bladimir. I am an aspiring Blue Teamer (SOC ANALYST)🛡️
+My name is Bladimir. I am an aspiring Blue Teamer (SOC Analyst)🛡️
 
 ### current role
 
