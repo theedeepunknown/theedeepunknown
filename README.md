@@ -1,4 +1,4 @@
-## Hola Amigos! 👋
+## Hola amigos! 👋
 My name is Bladimir. 
 
 ### current role
