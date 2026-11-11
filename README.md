@@ -1,1 +1,3 @@
+### About me
+My name is Bladimir, and I’m based in the Richmond area. I currently work as a Desktop Support Specialist, where I serve as the first point of contact for technical needs within an enterprise environment, both remotely and in person.
 
