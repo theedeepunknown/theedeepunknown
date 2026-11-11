@@ -8,3 +8,5 @@ I’m focused on deepening my understanding of network infrastructure so I can d
 - CompTIA Security+
 - CompTIA Network+
 - Cisco CCNA *(in progress)*
+
+### Projects
